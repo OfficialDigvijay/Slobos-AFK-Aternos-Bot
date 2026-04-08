@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BuildSMP-3zJY.aternos.me:60877",
+    "ip": "BuildSMP-3zJY.aternos.me",
     "port": 60877,
     "version": "1.21.11",
     "try-creative": false
